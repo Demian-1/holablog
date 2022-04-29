@@ -16,9 +16,13 @@ ya se para que sirve el checkout:
 NOTA:
     No olvides guardar el archivo antes del add
 
-    Si se pudo recuperarlo
-    Creo que ya se usar rm --cached
+Si se pudo recuperarlo
+Creo que ya se usar rm --cached
 
-    Ahora probare rm --force con el otro historia
+Ahora probare rm --force con el otro historia
 
-    acabo de borar otraHistoria
+acabo de borar otraHistoria
+
+Acabo de hacer checkout y si funciona
+
+Creo que es mejor rm --force

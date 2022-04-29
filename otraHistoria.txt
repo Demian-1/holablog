@@ -1,0 +1,8 @@
+hola 
+este archivo sustituyo al anterior, en caso de no poder recuperarlo
+
+Ahora vamos a ver si aparece  el archivo historia original con un checkout
+
+
+Si lo pude recuperar
+    CONCLUSION: es mejor force si no los quiero mantener en stage
