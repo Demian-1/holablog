@@ -26,3 +26,5 @@ acabo de borar otraHistoria
 Acabo de hacer checkout y si funciona
 
 Creo que es mejor rm --force
+
+cambio para probar head, lo probe y funciona, es como un ctrl z por si no lo quieres en stage
