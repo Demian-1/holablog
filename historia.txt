@@ -6,4 +6,12 @@ tengo 19 años
 
 nací en mexico, sigo en mexico
 
-mañana nos enfocaremos en su vida laboral
+ya se para que sirve el checkout:
+    Es para cuando queremos revisar una version anterior de nuestros archivos
+    Es importante el commit y el archivo
+    El archivo se abre, y se sube a stage
+    Lo puedes modificar, lo subes a stage, y luego le haces commit
+    O puedes regresar a la rama principal
+
+NOTA:
+    No olvides guardar el archivo antes del add
