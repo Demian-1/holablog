@@ -18,3 +18,6 @@ NOTA:
 
     Si se pudo recuperarlo
     Creo que ya se usar rm --cached
+
+    Ahora probare rm --force con el otro historia
+    
