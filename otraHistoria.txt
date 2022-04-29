@@ -1,2 +1,4 @@
 hola 
 este archivo sustituyo al anterior, en caso de no poder recuperarlo
+
+Ahora vamos a ver si aparece  el archivo historia original con un checkout
