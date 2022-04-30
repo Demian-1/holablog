@@ -9,7 +9,7 @@ body{
 
 #container{
     width: 69%;
-    padding: 1em;
+    padding: 0em;
     text-align: left;
     border: 1px solid grey;
     margin: 0 auto;
@@ -26,4 +26,13 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #tagline{
+    font-weight: lighter;
+
+}
+
+#post{
+    margin: 3em;
 }
